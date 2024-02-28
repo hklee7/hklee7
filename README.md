@@ -1,16 +1,22 @@
-### Hi there 👋
+###  기획 취준생 
+> 기획자 그리고 사업PM 두마리 토끼를 노리는 
+- 15년차 오타쿠 
+- 겜돌이
+- ESTJ
+- 현재 (SeSac 강동, 대외활동, GMS) 진행중
+- 취미: 유튭 (링크)
+- 없지만 : 인스타 (링크)
 
-<!--
-**hklee7/hklee7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 업무 활용능력 & 툴
+- 문서 능력 (Word, ppt, excel, google docs)
+- 외국어 (일본어,인니어,영어)
+- 노션
+- 라크
+- 피그마
+  
+### 최근 관심사
+무엇무엇(링크) 
 
-Here are some ideas to get you started:
+### Contact
+이메일 : dlgusrbs95@naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
