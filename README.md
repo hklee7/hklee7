@@ -1,4 +1,4 @@
-### Hi there 👋
+### 취준생 / 15년차 오타쿠 / 겜돌이 / ESTJ / 7월7일 탄생
 
 <!--
 **hklee7/hklee7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
