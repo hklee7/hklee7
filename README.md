@@ -8,7 +8,7 @@
 - ESTJ
 - 현재 (SeSac 강동, 대외활동, GMS) 진행중
 - 취미: <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucefjjv47ryp7slsig77fqbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucefjjv47ryp7slsig77fqbg" height="30" width="40" /></a>
-- 인스타 : <a href="https://www.instagram.com/c/https://www.instagram.com/hk_jobseeker" target="blank"><img align="center" src="!https://github.com/hklee7/hklee7/assets/161420065/a75110cb-ed96-4c16-8d5e-e8f8245caec9]()" alt="https://www.instagram.com/hk_jobseeker" height="30" width="40" /></a>
+- 인스타 : <a href="https://www.instagram.com/hk_jobseeker" target="blank"><img align="center" src="https://github.com/hklee7/hklee7/assets/161420065/b61eb547-0b3e-4d9b-ae07-ca719f6c211a]()" alt="https://www.instagram.com/hk_jobseeker" height="30" width="40" /></a>
 https://www.instagram.com/hk_jobseeker)
 
 ### 업무 활용능력 & 툴
