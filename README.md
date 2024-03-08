@@ -9,8 +9,11 @@
 - 겜돌이
 - ESTJ
 - 현재 (SeSac 강동, 대외활동, GMS) 진행중
-- 취미: <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucefjjv47ryp7slsig77fqbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucefjjv47ryp7slsig77fqbg" height="30" width="40" /></a>
-- 인스타 : <a href="https://www.instagram.com/hk_jobseeker" target="blank"><img align="center" src="https://github.com/hklee7/hklee7/assets/161420065/b61eb547-0b3e-4d9b-ae07-ca719f6c211a]()" alt="https://www.instagram.com/hk_jobseeker" height="30" width="40" /></a>
+- 취미: <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucefjjv47ryp7slsig77fqbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucefjjv47ryp7slsig77fqbg" height="30" width="35" /></a>
+- 인스타 : <a href="https://www.instagram.com/hk_jobseeker" target="blank"><img align="center" src="https://mblogthumb-phinf.pstatic.net/MjAxODA4MjBfMTYz/MDAxNTM0NzMxOTA1NzI5.iiZw2j9KPxorBAw1rDxzLH7DjLH4qL0rXPWjDfZDSUIg.VAddbzhp-eDEEqeLYjCNMbZDfIcgjs3GUMUZ8q9aiVgg.PNG.gaogirl/instagram_PNG9.png?type=w800" alt="https://www.instagram.com/hk_jobseeker" height="30" width="30" /></a>
+
+
+
 
 
 ### 업무 활용능력 & 툴
