@@ -1,6 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=환영한다%20&fontSize=100&desc=hklee7%20GitHub&descSize=30&descAlign=65&descAlignY=75)
 
+
+
+
+
 <h1 align="center">나는야 잡시커 이현균</h1>
 
 #
@@ -27,6 +31,7 @@
   <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1024px-2023_Obsidian_logo.svg.png" alt="cplusplus" width="40" height="40"/> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://hklee7.github.io/aboutme/" target="_blank" rel="noreferrer"> <img src="https://github.com/hklee7/hklee7/assets/161420065/447ab2f4-1ed7-4ceb-b30c-aeeebc26498c" width="40" height="40"/> </a> 
   <a href="https://www.larksuite.com/ko_kr//" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/WBJp4E5ZLxMhnOBfj3iZ5HAzYjMc180O-qmVyVpQgI8Bwv70f_C_Kng-mzO2hFQ2zg=w240-h480-rw" alt="lark" width="40" height="40"/> </a> 
   <a href="https://www.notion.so/ko-kr/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/589/804/png-transparent-notion-logo-thumbnail.png" alt="git" width="40" height="40"/> </a> 
 </p>
