@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=환영~~합니다%20&fontSize=100&desc=hklee7%20GitHub&descSize=20&descAlign=80&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=환영~합니다%20&fontSize=100&desc=hklee7%20GitHub&descSize=20&descAlign=80&descAlignY=75"/>
 </div>
 
 
@@ -10,16 +10,24 @@
 
 #
 
-###  사업PM 취준생
+###  저는요
 > 7전8기, 나무를 10번이나 찍어보는 스타일
 - 15년차 오타쿠 
 - 겜돌이
 - ESTJ
-- 현재 (SeSac 강동, 대외활동, GMS) 진행중
 - 취미: <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucefjjv47ryp7slsig77fqbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucefjjv47ryp7slsig77fqbg" height="30" width="35" /></a>
 - 인스타 : <a href="https://www.instagram.com/hk_jobseeker" target="blank"><img align="center" src="https://mblogthumb-phinf.pstatic.net/MjAxODA4MjBfMTYz/MDAxNTM0NzMxOTA1NzI5.iiZw2j9KPxorBAw1rDxzLH7DjLH4qL0rXPWjDfZDSUIg.VAddbzhp-eDEEqeLYjCNMbZDfIcgjs3GUMUZ8q9aiVgg.PNG.gaogirl/instagram_PNG9.png?type=w800" alt="https://www.instagram.com/hk_jobseeker" height="30" width="30" /></a>
 
+
 #
+### 교육상황
+> 현재 (SeSac 강동, 대외활동, GMS) 진행중
+
+#
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 업무 활용능력
 1) 문서 능력
