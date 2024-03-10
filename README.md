@@ -3,8 +3,8 @@
 
 <h1 align="center">잡시커 이현균</h1>
 
-###  기획 취준생 
-> 기획자 그리고 사업PM 두마리 토끼를 노리는 
+###  사업PM 취준생
+> 7전8기, 나무를 10번이나 찍어보는 스타일의
 - 15년차 오타쿠 
 - 겜돌이
 - ESTJ
@@ -14,14 +14,22 @@
 
 
 
-
-
 ### 업무 활용능력 & 툴
 - 문서 능력 (Word, ppt, excel, google docs)
+<p align="left">
+  <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1024px-2023_Obsidian_logo.svg.png" alt="cplusplus" width="40" height="40"/> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.larksuite.com/ko_kr//" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/WBJp4E5ZLxMhnOBfj3iZ5HAzYjMc180O-qmVyVpQgI8Bwv70f_C_Kng-mzO2hFQ2zg=w240-h480-rw" alt="lark" width="40" height="40"/> </a> 
+  <a href="https://www.notion.so/ko-kr/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/589/804/png-transparent-notion-logo-thumbnail.png" alt="git" width="40" height="40"/> </a> 
+
+</p>
+
+
+### 외국어
 - 외국어 (일본어,인니어,영어)
-- 노션
-- 라크
-<p align="left"> <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1024px-2023_Obsidian_logo.svg.png" alt="cplusplus" width="40" height="40"/> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+
   
 ### 최근 관심사
 - 블록체인
@@ -30,4 +38,7 @@
 
 ### Contact
 이메일 : dlgusrbs95@naver.com
+
+
+
 
