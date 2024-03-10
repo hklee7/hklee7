@@ -1,5 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=환영한다%20&fontSize=100&desc=hklee7%20GitHub&descSize=20&descAlign=80&descAlignY=75)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=환영한다%20&fontSize=100&desc=hklee7%20GitHub&descSize=20&descAlign=80&descAlignY=75"/>
+</div>
+
+
 
 
 <h1 align="center">방문자수</h1>
