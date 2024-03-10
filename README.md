@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=환영한다%20&fontSize=100&desc=hklee7%20GitHub&descSize=30&descAlign=65&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=환영한다%20&fontSize=100&desc=hklee7%20GitHub&descSize=20&descAlign=80&descAlignY=75)
 
 
 
@@ -22,11 +22,11 @@
 
 ### 업무 활용능력
 1) 문서 능력
-<p align="left">
-<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/121444009/original/d688597a68f11ff77e14753c642b3140bd54d971/automate-your-excel-word-ppt-outlook-work-using-macro.jpg" alt="cplusplus" width="160" height="80"/> </p>
+&nbsp;<p align="left">
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/121444009/original/d688597a68f11ff77e14753c642b3140bd54d971/automate-your-excel-word-ppt-outlook-work-using-macro.jpg" alt="cplusplus" width="160" height="70"/> </p>
 
 2) 사용가능 툴
-<p align="left">
+&nbsp;<p align="left">
   <a href="https://www.google.com/intl/ko_KR/docs/about/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/google_docs_new_logo_icon_159146.png" alt="cplusplus" width="45" height="45"/>,
   <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1024px-2023_Obsidian_logo.svg.png" alt="cplusplus" width="40" height="40"/> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
