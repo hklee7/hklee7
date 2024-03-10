@@ -4,16 +4,7 @@
 </div>
 
 
-
-
-<h1 align="center">총 방문자수</h1>
-<div align="center">
-  <a href="https://hklee.me"><img src="https://count.getloli.com/get/@hklee7"/></a>
-</div>
-
-
-
-
+#
 
 <h1 align="center">나는야 잡시커 이현균</h1>
 
@@ -57,7 +48,7 @@
 ### 최근 관심사
 - 블록체인
 - BM분석
-
+- IP 사업개발
 
 #
 
@@ -70,3 +61,10 @@
 #
 
 
+
+<h1 align="center">총 방문자수</h1>
+<div align="center">
+  <a href="https://hklee.me"><img src="https://count.getloli.com/get/@hklee7"/></a>
+</div>
+
+#
